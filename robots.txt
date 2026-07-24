@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://handbook-tvkfwr.сигналы-яндекс-директ.рф/sitemap.xml
